@@ -3,7 +3,7 @@ This is a pytorch implementation of the [lottery ticket hypothesis paper](https:
 
 The plots below are examples of the plots shown in the paper. The plots are for the Lenet300100 model on MNIST at 20% pruning rate. See plot_utils.py for details. 
 
-The first plot is a demonstration of the superiority interms of overall training trajectories of lottery tickes. 
+The first plot is an example of the superior performs of the lottery tickets
 
 ![The Lottery Ticket Results for Lenet300100 on MNIST at 20% pruning rate](lt_plot.png)
 
